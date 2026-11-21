@@ -1,0 +1,14 @@
+skills:
+- id: icj-judgment-enforcement-and-article-94-sanctions
+  name: ICJ Judgment Enforcement & Article 94 Sanctions
+  status: ACTIVE
+  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
+- id: historical-intervention-and-canal-concession-audit
+  name: Historical Intervention & Canal Concession Audit
+  status: ACTIVE
+  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
+- id: rincon-band-of-luiseno-indians-previouslan-restitution-roadmap-and-qsf-trust-execution
+  name: Rincon Band of Luiseno Indians Previouslan Restitution Roadmap & QSF Trust Execution
+  status: ACTIVE
+  manifest_file: .antigravity/skills/rincon-band-of-luiseno-indians-previouslan-restitution-roadmap-and-qsf-trust-execution.yaml
+total_skills: 3
